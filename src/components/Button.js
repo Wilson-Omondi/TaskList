@@ -1,0 +1,7 @@
+import React from 'react';
+
+function Button(props) {
+  return (<button className='btn'>Add</button>);
+}
+
+export default Button;
